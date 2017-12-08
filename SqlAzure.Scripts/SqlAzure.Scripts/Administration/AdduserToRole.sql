@@ -1,0 +1,3 @@
+﻿EXEC sp_addrolemember 'RoleName', 'UserName';
+
+-- RoleName like: db_datareader, db_owner, ...

@@ -63,5 +63,6 @@
     <Build Include="Administration\CreateLogin.sql" />
     <Build Include="Administration\CreateDatabase.sql" />
     <Build Include="Administration\CreateUserToDatabase.sql" />
+    <Build Include="Administration\AdduserToRole.sql" />
   </ItemGroup>
 </Project>

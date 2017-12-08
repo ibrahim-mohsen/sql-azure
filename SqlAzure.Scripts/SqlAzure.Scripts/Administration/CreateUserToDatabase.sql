@@ -1,1 +1,1 @@
-CREATE USER UserName FROM LOGIN LoginName;
+﻿CREATE USER UserName FROM LOGIN LoginName;
